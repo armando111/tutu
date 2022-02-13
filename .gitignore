@@ -1,0 +1,10 @@
+obj
+bin
+appsettings.json
+project-colors.json
+.dtbcache.v2
+.futdcache.v1
+.suo
+000.testlog
+testlog.manifest
+*.db
